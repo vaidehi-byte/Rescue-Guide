@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rescue Guide</title>
+</head>
+<body>
+    <h1>🚑 Rescue Guide</h1>
+    <h2>First Aid Emergency Assistant</h2>
+
+    <p>Welcome to Rescue Guide.</p>
+
+    <ul>
+        <li>CPR Guide</li>
+        <li>Bleeding Control</li>
+        <li>Burn Treatment</li>
+        <li>Snake Bite</li>
+        <li>Heart Attack</li>
+    </ul>
+</body>
+</html>
